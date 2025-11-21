@@ -69,6 +69,5 @@ While the original repositories are private, I am reconstructing selected tools,
 ---
 
 ## 📫 Connect  
-📧 dev.shassshank@gmail.com  
-🔗 linkedin.com/in/shassshank  
-🐙 github.com/shassshank
+[<img src="https://cdn.simpleicons.org/gmail/DC4E41" width="24" height="24">](mailto:dev.shassshank@gmail.com) dev.shassshank@gmail.com   
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24">](https://linkedin.com/in/shassshank/)[linkedin.com/in/shassshank](linkedin.com/in/shassshank/)  
