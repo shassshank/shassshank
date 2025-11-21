@@ -69,6 +69,6 @@ While the original repositories are private, I am reconstructing selected tools,
 ---
 
 ## 📫 Connect  
-📧 dev.shassshank@gmail.com
+📧 dev.shassshank@gmail.com  
 🔗 linkedin.com/in/shassshank  
 🐙 github.com/shassshank
