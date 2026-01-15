@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Shashank Patil
+# Hi, I'm Shashank Patil
 
 Software Engineer specializing in backend systems, automation pipelines, and scalable full-stack applications.  
 Experienced in building production-grade solutions using .NET, SQL Server, distributed workflows, and enterprise automation.
 
 ---
 
-## ⚙️ Engineering Focus
+## Engineering Focus
 
 I design and build:
 
@@ -20,7 +20,7 @@ I focus on clean architecture, reliability, performance, and long-term maintaina
 
 ---
 
-## 🛠️ Technical Skill Set
+## Technical Skill Set
 
 ### **Programming Languages**
 C++, C#, VBA
@@ -46,7 +46,7 @@ UiPath automation, Outlook Exchange APIs
 
 ---
 
-## 🧱 Professional Background
+## Professional Background
 
 Most of my past engineering work is part of internal company systems and covered under NDAs.  
 However, my contributions include:
@@ -68,6 +68,6 @@ While the original repositories are private, I am reconstructing selected tools,
 
 ---
 
-## 📫 Connect  
+## Connect  
 [<img src="https://cdn.simpleicons.org/gmail/DC4E41" width="24" height="24">](mailto:dev.shassshank@gmail.com) dev.shassshank@gmail.com   
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24">](https://linkedin.com/in/shassshank/)[linkedin.com/in/shassshank](linkedin.com/in/shassshank/)  
